@@ -60,9 +60,9 @@ Pico-Trial-Web-App/
 VITE_API_BASE_URL=http://localhost:5000/api
 
 ## 🔐 Backend .env
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/pico-trails
-JWT_SECRET=your_jwt_secret
+PORT=5000<br>
+MONGO_URI=mongodb://localhost:27017/pico-trails<br>
+JWT_SECRET=your_jwt_secret<br>
 
 ## 📦 Clone the repository
 git clone https://github.com/your-username/Pico-Trial-Web-App.git <br>
