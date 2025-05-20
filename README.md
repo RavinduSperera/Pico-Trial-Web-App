@@ -65,7 +65,7 @@ MONGO_URI=mongodb://localhost:27017/pico-trails
 JWT_SECRET=your_jwt_secret
 
 ## 📦 Clone the repository
-git clone https://github.com/your-username/Pico-Trial-Web-App.git
+git clone https://github.com/your-username/Pico-Trial-Web-App.git <br>
 cd Pico-Trial-Web-App
 
 ## ⚙️ Configure .env files
@@ -97,5 +97,5 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Name: Ravindu Perera
+Name: Ravindu Perera <br>
 GitHub: @RavinduSperera
